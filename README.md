@@ -1,2 +1,1 @@
-# Prep-cours-henry
-repositorio de prueba
+Prueba de como crear un repositorio en github y clonarlo a mi escritorio
